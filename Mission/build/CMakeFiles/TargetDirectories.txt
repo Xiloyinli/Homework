@@ -1,0 +1,3 @@
+/home/xiloyinli/Homework/Homework/Mission/build/CMakeFiles/Main.dir
+/home/xiloyinli/Homework/Homework/Mission/build/CMakeFiles/edit_cache.dir
+/home/xiloyinli/Homework/Homework/Mission/build/CMakeFiles/rebuild_cache.dir
